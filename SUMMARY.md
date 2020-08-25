@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Main page](README.md)
+* [History](History.md)
+* [Roadmap](Roadmap.md)
 
